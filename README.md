@@ -1,2 +1,2 @@
 # Sthenos-Mock-Up
-Sample design wesbite made back in 2017
+Sample design website made back in 2017
